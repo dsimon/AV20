@@ -1,7 +1,7 @@
 # AV20
 Archive Directory Viewer 2.0 (1989)
 
-Released by 17-year old Derron Simon in 1988 and updated through early 1989.  Source code *was* released but I've been unable to find it.  If you have it, please share!
+Released by 16-year old Derron Simon in 1988 and updated through early 1989.  IIRC source code *was* released on GEnie but I've been unable to find it.  It was written in C.  If you somehow you have the source code, please share!
 
 Here is the AV.DOC:
 
