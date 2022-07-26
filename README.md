@@ -1,7 +1,7 @@
 # AV20
 Archive Directory Viewer 2.0 (1989)
 
-Released by 16-year old Derron Simon in 1988 and updated through early 1989.  IIRC source code *was* released on GEnie but I've been unable to find it.  It was written in C.  If you somehow you have the source code, please share!
+Released by 16-year old Derron Simon in 1988 and updated through early 1989.  IIRC source code *was* released on GEnie but I've been unable to find it.  It was written in C.  If you somehow have the source code, please share!
 
 Here is the AV.DOC:
 
@@ -14,10 +14,6 @@ Here is the AV.DOC:
 
                                CompuServe: 72571,1524
                                    GEnie: D.SIMON
-
-
-
-
 
             DESCRIPTION
 
@@ -72,11 +68,6 @@ Here is the AV.DOC:
                  .
                  .
                  .
-            
-
-
-
-
 
                  filen.ext
                    contents
@@ -131,13 +122,7 @@ Here is the AV.DOC:
                  information).
 
                  LU.ARC by Thom Henderson (implementation of LBR header
-                 viewer and more widely used header format than
-
-
-
-
-
-                 LUDEF5.DOC).
+                 viewer and more widely used header format than LUDEF5.DOC).
 
                  ARCVIEW.ARC by Doug Boone (another similar utility with
                  C source which shows ARC/PAK/DWC/ZOO files).
@@ -190,12 +175,7 @@ Here is the AV.DOC:
             1.92  03/18/89  Fixed ..\filename.ext problem
             2.00* 03/18/89  New Documentation and other small stuff
 
-            * publicly released versions
-
-
-
-
-
+            * publicly released versions
 
             I am attempting to keep the number of versions of AV down to
             a minimum, if you need something please get in touch with me
